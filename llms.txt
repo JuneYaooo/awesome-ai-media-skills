@@ -1,0 +1,15 @@
+# Awesome AI Media Skills
+
+> A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management, and content automation.
+
+## Docs
+
+- [Skills Directory](https://github.com/JuneYaooo/awesome-ai-media-skills/blob/main/README.md): Complete categorized list
+- [Chinese Version](https://github.com/JuneYaooo/awesome-ai-media-skills-cn/blob/main/README.md): 中文版
+
+## Categories
+
+- [Video Generation Skills](https://github.com/JuneYaooo/awesome-ai-media-skills#video-generation-skills): AI video generation agent skills
+- [Social Media MCP Servers](https://github.com/JuneYaooo/awesome-ai-media-skills#social-media-mcp-servers): MCP servers for social media APIs
+- [Content Creation Skills](https://github.com/JuneYaooo/awesome-ai-media-skills#content-creation-skills): Writing, scripting, and content tools
+- [Video Processing Skills](https://github.com/JuneYaooo/awesome-ai-media-skills#video-processing-skills): Editing, subtitles, and processing
