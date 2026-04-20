@@ -21,21 +21,27 @@
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
+| [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | Claude Code / MCP | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square) | Multimodal media skill library for AI agents with schema-driven wrappers around muapi-cli, 100+ image/video/audio models, and optional MCP exposure for creative pipelines. |
+| [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | Official MiniMax MCP server for text-to-speech, image generation, and video generation APIs. Ships demo configs, tests, and Python package tooling. |
 
 ## Social Media MCP Servers
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
+| [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | Agent-friendly social media automation CLI for Postiz. Schedule posts, upload media, and publish across 28+ platforms with examples, skill install docs, and provider settings guides. |
 
 ## Content Creation Skills
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
+| [content-pipeline](https://github.com/OrangeViolin/content-pipeline) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/OrangeViolin/content-pipeline?style=flat-square) | End-to-end Claude Code skill for creator workflows: research, drafting, layout, cover generation, multi-platform adaptation, and one-click publishing. |
+| [social-media-skills](https://github.com/blacktwist/social-media-skills) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/blacktwist/social-media-skills?style=flat-square) | Reusable social media strategy and writing skills for audience context, calendars, hooks, threads, carousels, repurposing, and post analysis. |
 
 ## Video Processing Skills
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
+| [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | Open CapCut/Jianying automation toolkit exposing draft editing, material insertion, effects, subtitle workflows, and export primitives for AI-assisted video production. |
 
 ---
 
