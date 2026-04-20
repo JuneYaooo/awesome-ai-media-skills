@@ -36,6 +36,7 @@
 |-------|----------|-------|-------------|-------|-------------|
 | [content-pipeline](https://github.com/OrangeViolin/content-pipeline) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/OrangeViolin/content-pipeline?style=flat-square) | End-to-end Claude Code skill for creator workflows: research, drafting, layout, cover generation, multi-platform adaptation, and one-click publishing. |
 | [social-media-skills](https://github.com/blacktwist/social-media-skills) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/blacktwist/social-media-skills?style=flat-square) | Reusable social media strategy and writing skills for audience context, calendars, hooks, threads, carousels, repurposing, and post analysis. |
+| [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Claude Code / ClawHub | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square) | Baoyu's Claude Code skills marketplace — Xiaohongshu image cards, infographics (21 layouts × 21 styles), SVG diagrams, markdown-to-HTML, and more content generation skills. |
 
 ## Video Processing Skills
 
