@@ -38,12 +38,15 @@
 | [social-media-skills](https://github.com/blacktwist/social-media-skills) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/blacktwist/social-media-skills?style=flat-square) | Reusable social media strategy and writing skills for audience context, calendars, hooks, threads, carousels, repurposing, and post analysis. |
 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Claude Code / ClawHub | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square) | Baoyu's Claude Code skills marketplace — Xiaohongshu image cards, infographics (21 layouts × 21 styles), SVG diagrams, markdown-to-HTML, and more content generation skills. |
 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | Claude ​Code | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/KKKKhazix/khazix-skills?style=flat-square) | Khazix's open-source AI skills — `khazix-writer` for WeChat long-form articles in his signature voice, and `hv-analysis` for horizontal-vertical deep research reports as polished PDFs. |
+| [claude-blog](https://github.com/AgriciDaniel/claude-blog) | Claude Code | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square) | Claude Code blog-production skill suite covering research, drafting, SEO and AI-citation optimization, editing, and publishing workflows with strong docs and governance files. |
+| [notebooklm-skill](https://github.com/claude-world/notebooklm-skill) | Claude Code / MCP | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/claude-world/notebooklm-skill?style=flat-square) | Research-to-publishing workflow that uses NotebookLM for source synthesis and Claude for drafting. Ships as a Claude Code skill plus MCP server with clear setup docs. |
 
 ## Video Processing Skills
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | Open CapCut/Jianying automation toolkit exposing draft editing, material insertion, effects, subtitle workflows, and export primitives for AI-assisted video production. |
+| [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | AI Agent Skill / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/NarratorAI-Studio/narrator-ai-cli-skill?style=flat-square) | Agent skill for creating movie-style narration videos through Narrator AI, with bilingual docs, plugin metadata, reference assets, and setup guidance for agent-driven video workflows. |
 
 ---
 
