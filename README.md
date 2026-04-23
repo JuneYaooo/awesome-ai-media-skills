@@ -29,6 +29,7 @@
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | Agent-friendly social media automation CLI for Postiz. Schedule posts, upload media, and publish across 28+ platforms with examples, skill install docs, and provider settings guides. |
+| [yutu](https://github.com/eat-pray-ai/yutu) | CLI / MCP / Agent | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square) | YouTube automation toolkit that ships as a CLI, MCP server, and AI agent. Handles uploads, SEO optimization, comments, playlists, branding, and other channel operations for autonomous creator workflows. |
 
 ## Content Creation Skills
 
