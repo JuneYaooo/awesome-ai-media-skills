@@ -23,6 +23,8 @@
 |-------|----------|-------|-------------|-------|-------------|
 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | Claude Code / MCP | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square) | Multimodal media skill library for AI agents with schema-driven wrappers around muapi-cli, 100+ image/video/audio models, and optional MCP exposure for creative pipelines. |
 | [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | Official MiniMax MCP server for text-to-speech, image generation, and video generation APIs. Ships demo configs, tests, and Python package tooling. |
+| [varg](https://github.com/vargHQ/sdk) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/vargHQ/sdk?style=flat-square) | AI video generation SDK plus installable agent skill. Uses JSX to orchestrate Kling, Flux, ElevenLabs, Sora, and related providers through one gateway, with agent-first setup and render tooling. |
+| [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/Agents365-ai/video-podcast-maker?style=flat-square) | Coding-agent skill for end-to-end video podcast creation: topic research, script writing, Remotion composition, multilingual TTS, subtitle burning, and 4K export for Bilibili/YouTube/Xiaohongshu. |
 
 ## Social Media MCP Servers
 
