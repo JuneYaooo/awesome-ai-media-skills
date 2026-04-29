@@ -25,6 +25,7 @@
 | [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | Official MiniMax MCP server for text-to-speech, image generation, and video generation APIs. Ships demo configs, tests, and Python package tooling. |
 | [varg](https://github.com/vargHQ/sdk) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/vargHQ/sdk?style=flat-square) | AI video generation SDK plus installable agent skill. Uses JSX to orchestrate Kling, Flux, ElevenLabs, Sora, and related providers through one gateway, with agent-first setup and render tooling. |
 | [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/Agents365-ai/video-podcast-maker?style=flat-square) | Coding-agent skill for end-to-end video podcast creation: topic research, script writing, Remotion composition, multilingual TTS, subtitle burning, and 4K export for Bilibili/YouTube/Xiaohongshu. |
+| [HeyGen Skills](https://github.com/heygen-com/skills) | Claude Code / Multi | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/heygen-com/skills?style=flat-square) | Official HeyGen agent skills for avatar creation and short video production through the v3 Video Agent pipeline, with install specs for Claude Code, Codex, Cursor, and OpenClaw. |
 
 ## Social Media MCP Servers
 
@@ -32,6 +33,7 @@
 |-------|----------|-------|-------------|-------|-------------|
 | [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | Agent-friendly social media automation CLI for Postiz. Schedule posts, upload media, and publish across 28+ platforms with examples, skill install docs, and provider settings guides. |
 | [yutu](https://github.com/eat-pray-ai/yutu) | CLI / MCP / Agent | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square) | YouTube automation toolkit that ships as a CLI, MCP server, and AI agent. Handles uploads, SEO optimization, comments, playlists, branding, and other channel operations for autonomous creator workflows. |
+| [youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=flat-square) | Agent skill pack for TranscriptAPI-backed YouTube transcripts, video search, channel browsing, and playlist extraction, with clear install docs and a companion MCP server. |
 | [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP Server | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square) | Hosted/local MCP server that lets AI agents pull structured data from social-media and creator platforms via Apify actors, with OAuth, output-schema inference, and broad MCP client support. |
 
 ## Content Creation Skills
@@ -52,6 +54,7 @@
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | Open CapCut/Jianying automation toolkit exposing draft editing, material insertion, effects, subtitle workflows, and export primitives for AI-assisted video production. |
+| [VibeFrame](https://github.com/vericontext/vibeframe) | CLI / MCP / Agent | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/vericontext/vibeframe?style=flat-square) | AI-native video CLI for terminal and MCP workflows. Combines FFmpeg-style editing, storyboard pipelines, AI media generation, rendering, and agent-friendly automation. |
 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | AI Agent Skill / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/NarratorAI-Studio/narrator-ai-cli-skill?style=flat-square) | Agent skill for creating movie-style narration videos through Narrator AI, with bilingual docs, plugin metadata, reference assets, and setup guidance for agent-driven video workflows. |
 
 ---
