@@ -29,6 +29,7 @@
 | [PixVerse Skills](https://github.com/PixVerseAI/skills) | Claude Code / Multi | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/PixVerseAI/skills?style=flat-square) | Official skill library for PixVerse CLI, covering text-to-video, image-to-video, motion control, video editing, character consistency, and structured agent workflows. |
 | [agent-media](https://github.com/yuvalsuede/agent-media-skill) | Claude Code / CLI | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/yuvalsuede/agent-media-skill?style=flat-square) | Claude Code skill for end-to-end UGC video production through the agent-media CLI, including AI actors, B-roll cutaways, voiceover, animated subtitles, and product-review workflows. |
 
+
 ## Social Media MCP Servers
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
@@ -36,6 +37,7 @@
 | [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | Agent-friendly social media automation CLI for Postiz. Schedule posts, upload media, and publish across 28+ platforms with examples, skill install docs, and provider settings guides. |
 | [yutu](https://github.com/eat-pray-ai/yutu) | CLI / MCP / Agent | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square) | YouTube automation toolkit that ships as a CLI, MCP server, and AI agent. Handles uploads, SEO optimization, comments, playlists, branding, and other channel operations for autonomous creator workflows. |
 | [youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | Claude Code / Multi | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=flat-square) | Agent skill pack for TranscriptAPI-backed YouTube transcripts, video search, channel browsing, and playlist extraction, with clear install docs and a companion MCP server. |
+
 | [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP Server | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square) | Hosted/local MCP server that lets AI agents pull structured data from social-media and creator platforms via Apify actors, with OAuth, output-schema inference, and broad MCP client support. |
 
 ## Content Creation Skills
@@ -50,6 +52,7 @@
 | [claude-blog](https://github.com/AgriciDaniel/claude-blog) | Claude Code | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square) | Claude Code blog-production skill suite covering research, drafting, SEO and AI-citation optimization, editing, and publishing workflows with strong docs and governance files. |
 | [notebooklm-skill](https://github.com/claude-world/notebooklm-skill) | Claude Code / MCP | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/claude-world/notebooklm-skill?style=flat-square) | Research-to-publishing workflow that uses NotebookLM for source synthesis and Claude for drafting. Ships as a Claude Code skill plus MCP server with clear setup docs. |
 | [social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | Claude Code | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square) | Self-media "find benchmark → crack viral → adapt to me" 3-command loop for Xiaohongshu / Douyin / Kuaishou / Video Channel / Bilibili. Inputs your account or topic, outputs a publish-ready next post draft (title + cover headline + opening + CTA). Bundles a self-contained tikhub CLI. |
+
 
 ## Video Processing Skills
 
