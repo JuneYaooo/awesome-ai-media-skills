@@ -62,6 +62,7 @@
 | [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | Open CapCut/Jianying automation toolkit exposing draft editing, material insertion, effects, subtitle workflows, and export primitives for AI-assisted video production. |
 | [VibeFrame](https://github.com/vericontext/vibeframe) | CLI / MCP / Agent | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/vericontext/vibeframe?style=flat-square) | AI-native video CLI for terminal and MCP workflows. Combines FFmpeg-style editing, storyboard pipelines, AI media generation, rendering, and agent-friendly automation. |
 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | AI Agent Skill / API | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/NarratorAI-Studio/narrator-ai-cli-skill?style=flat-square) | Agent skill for creating movie-style narration videos through Narrator AI, with bilingual docs, plugin metadata, reference assets, and setup guidance for agent-driven video workflows. |
+| [mcp-video](https://github.com/KyaniteLabs/mcp-video) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/KyaniteLabs/mcp-video?style=flat-square) | Guardrailed video editing MCP server for AI agents — FFmpeg, Hyperframes, repurposing workflows |
 
 ---
 
