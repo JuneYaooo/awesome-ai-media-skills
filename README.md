@@ -40,6 +40,7 @@
 | [n8n-claw](https://github.com/freddy-schuetz/n8n-claw) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/freddy-schuetz/n8n-claw?style=flat-square) | OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media underst... |
 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
 | [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP Server | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square) | Hosted/local MCP server that lets AI agents pull structured data from social-media and creator platforms via Apify actors, with OAuth, output-schema inference, and broad MCP client support. |
+| [mcp-youtube](https://github.com/kirbah/mcp-youtube) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/kirbah/mcp-youtube?style=flat-square) | High-efficiency YouTube MCP server providing token-optimized structured data for video metadata, transcripts, and channel operations. |
 
 ## Content Creation Skills
 
