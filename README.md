@@ -29,6 +29,9 @@
 | [PixVerse Skills](https://github.com/PixVerseAI/skills) | Claude Code / Multi | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/PixVerseAI/skills?style=flat-square) | Official skill library for PixVerse CLI, covering text-to-video, image-to-video, motion control, video editing, character consistency, and structured agent workflows. |
 | [agent-media](https://github.com/yuvalsuede/agent-media-skill) | Claude Code / CLI | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/yuvalsuede/agent-media-skill?style=flat-square) | Claude Code skill for end-to-end UGC video production through the agent-media CLI, including AI actors, B-roll cutaways, voiceover, animated subtitles, and product-review workflows. |
 | [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Anil-matcha/Open-AI-Micro-Drama-Generator?style=flat-square) | AI short drama & micro-drama video generator — turns any idea into a complete short-form drama using multi-agent AI pipeline (screenwriter → storyboard → frames → video). Seedance 2 VIP, Kling 3.0 ... |
+| [Seedance2-ComfyUI](https://github.com/Anil-matcha/seedance2-comfyui) | ComfyUI | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Anil-matcha/seedance2-comfyui?style=flat-square) | ComfyUI custom nodes for ByteDance Seedance 2.0 — text-to-video, image-to-video, and video extension workflows. |
+| [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) | n8n | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/Anil-matcha/n8n-nodes-seedance2?style=flat-square) | n8n community node for ByteDance Seedance 2.0. Automate AI video generation pipelines in no-code workflows. |
+| [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/A-cat-with-carrots/OnlyShot?style=flat-square) | AI 短剧工业流水线 Claude Skill — 一句话 → 剧本/分镜/分镜图/视频/剪辑五步 → 可发红果抖音的完整短剧。集成即梦/Seedance。 |
 
 ## Social Media MCP Servers
 
@@ -41,6 +44,7 @@
 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
 | [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP Server | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square) | Hosted/local MCP server that lets AI agents pull structured data from social-media and creator platforms via Apify actors, with OAuth, output-schema inference, and broad MCP client support. |
 | [mcp-youtube](https://github.com/kirbah/mcp-youtube) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/kirbah/mcp-youtube?style=flat-square) | High-efficiency YouTube MCP server providing token-optimized structured data for video metadata, transcripts, and channel operations. |
+| [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/luyike221/xiaohongshu-mcp-python?style=flat-square) | 小红书内容自动化发布 MCP Server，支持图文/视频发布、笔记管理、数据分析，基于 Model Context Protocol 为 AI 客户端提供小红书运营能力。 |
 
 ## Content Creation Skills
 
@@ -55,6 +59,8 @@
 | [notebooklm-skill](https://github.com/claude-world/notebooklm-skill) | Claude Code / MCP | ⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/claude-world/notebooklm-skill?style=flat-square) | Research-to-publishing workflow that uses NotebookLM for source synthesis and Claude for drafting. Ships as a Claude Code skill plus MCP server with clear setup docs. |
 | [social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | Claude Code | ⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square) | Self-media "find benchmark → crack viral → adapt to me" 3-command loop for Xiaohongshu / Douyin / Kuaishou / Video Channel / Bilibili. Inputs your account or topic, outputs a publish-ready next post draft (title + cover headline + opening + CTA). Bundles a self-contained tikhub CLI. |
 | [rico-skills](https://github.com/ricocc/rico-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ricocc/rico-skills?style=flat-square) | Claude Code Skills for content creation, design optimization, and resource curation. |
+| [Awesome-Gemini-Omni-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) | Claude Code | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/Anil-matcha/Awesome-Gemini-Omni-API-Prompts?style=flat-square) | Curated Google Gemini Omni prompts and API examples — text-to-video, image-to-video, video editing via the Gemini API. |
+| [awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Mann1988/awesome-claude-skills?style=flat-square) | High-quality Claude skills focused on business analysis and content creation, enhancing AI-assisted marketing and media workflows. |
 
 ## Video Processing Skills
 
