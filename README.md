@@ -61,6 +61,8 @@
 | [rico-skills](https://github.com/ricocc/rico-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ricocc/rico-skills?style=flat-square) | Claude Code Skills for content creation, design optimization, and resource curation. |
 | [Awesome-Gemini-Omni-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) | Claude Code | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/Anil-matcha/Awesome-Gemini-Omni-API-Prompts?style=flat-square) | Curated Google Gemini Omni prompts and API examples — text-to-video, image-to-video, video editing via the Gemini API. |
 | [awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Mann1988/awesome-claude-skills?style=flat-square) | High-quality Claude skills focused on business analysis and content creation, enhancing AI-assisted marketing and media workflows. |
+| [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/jnMetaCode/ai-shortfilm-prompts?style=flat-square) | Methodology, prompts, and Claude Code Skill for AI short film production. Complete pipeline from idea generation to shot-by-shot storyboarding and AI video assembly. |
+| [marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/hyperfx-ai/marketing-skills?style=flat-square) | Marketing skills pack for AI agents — paid ads management, social media automation, SEO optimization, competitor research, and content strategy workflows. |
 
 ## Video Processing Skills
 
