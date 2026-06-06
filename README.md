@@ -45,6 +45,8 @@
 | [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP Server | ⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square) | Hosted/local MCP server that lets AI agents pull structured data from social-media and creator platforms via Apify actors, with OAuth, output-schema inference, and broad MCP client support. |
 | [mcp-youtube](https://github.com/kirbah/mcp-youtube) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/kirbah/mcp-youtube?style=flat-square) | High-efficiency YouTube MCP server providing token-optimized structured data for video metadata, transcripts, and channel operations. |
 | [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/luyike221/xiaohongshu-mcp-python?style=flat-square) | 小红书内容自动化发布 MCP Server，支持图文/视频发布、笔记管理、数据分析，基于 Model Context Protocol 为 AI 客户端提供小红书运营能力。 |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat-square) | Twitter/X scraper API skill — tweet search, advanced search, profile scraping, and data extraction wrapped as an MCP tool for AI agents. |
+| [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square) | OpenClaw plugin for Twitter/X — search tweets and replies, post tweets, export followers, and manage social presence from within OpenClaw workflows. |
 
 ## Content Creation Skills
 
@@ -63,6 +65,7 @@
 | [awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Mann1988/awesome-claude-skills?style=flat-square) | High-quality Claude skills focused on business analysis and content creation, enhancing AI-assisted marketing and media workflows. |
 | [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/jnMetaCode/ai-shortfilm-prompts?style=flat-square) | Methodology, prompts, and Claude Code Skill for AI short film production. Complete pipeline from idea generation to shot-by-shot storyboarding and AI video assembly. |
 | [marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/hyperfx-ai/marketing-skills?style=flat-square) | Marketing skills pack for AI agents — paid ads management, social media automation, SEO optimization, competitor research, and content strategy workflows. |
+| [grazer-skill-rs](https://github.com/Scottcjn/grazer-skill-rs) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/Scottcjn/grazer-skill-rs?style=flat-square) | Rust crate for multi-platform AI agent content discovery — search BoTTube, Moltbook, 4chan, and other platforms for content ideas and trend analysis. |
 
 ## Video Processing Skills
 
