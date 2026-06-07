@@ -32,6 +32,7 @@
 | [Seedance2-ComfyUI](https://github.com/Anil-matcha/seedance2-comfyui) | ComfyUI | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Anil-matcha/seedance2-comfyui?style=flat-square) | ComfyUI custom nodes for ByteDance Seedance 2.0 — text-to-video, image-to-video, and video extension workflows. |
 | [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) | n8n | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/Anil-matcha/n8n-nodes-seedance2?style=flat-square) | n8n community node for ByteDance Seedance 2.0. Automate AI video generation pipelines in no-code workflows. |
 | [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/A-cat-with-carrots/OnlyShot?style=flat-square) | AI 短剧工业流水线 Claude Skill — 一句话 → 剧本/分镜/分镜图/视频/剪辑五步 → 可发红果抖音的完整短剧。集成即梦/Seedance。 |
+| [ai-media-generator](https://github.com/Hao0321/ai-media-generator) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Hao0321/ai-media-generator?style=flat-square) | Zero-skill cinema — senior-director prompts on autopilot. Claude Code Skill for automated AI video generation from creative prompts with cinematic quality. |
 
 ## Social Media MCP Servers
 
@@ -47,6 +48,8 @@
 | [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/luyike221/xiaohongshu-mcp-python?style=flat-square) | 小红书内容自动化发布 MCP Server，支持图文/视频发布、笔记管理、数据分析，基于 Model Context Protocol 为 AI 客户端提供小红书运营能力。 |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat-square) | Twitter/X scraper API skill — tweet search, advanced search, profile scraping, and data extraction wrapped as an MCP tool for AI agents. |
 | [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square) | OpenClaw plugin for Twitter/X — search tweets and replies, post tweets, export followers, and manage social presence from within OpenClaw workflows. |
+| [mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript) | MCP Server | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square) | MCP server for retrieving YouTube video transcripts. AI agents can search, fetch, and analyze video captions for content creation, research, and summarization workflows. |
+| [crawl-mcp](https://github.com/walksoda/crawl-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/walksoda/crawl-mcp?style=flat-square) | Crawl4AI MCP Server — extract structured content from web pages, PDFs, Office docs, and YouTube videos. AI agents can crawl, parse, and analyze online content for research and content creation. |
 
 ## Content Creation Skills
 
