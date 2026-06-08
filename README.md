@@ -50,6 +50,7 @@
 | [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square) | OpenClaw plugin for Twitter/X — search tweets and replies, post tweets, export followers, and manage social presence from within OpenClaw workflows. |
 | [mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript) | MCP Server | ⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square) | MCP server for retrieving YouTube video transcripts. AI agents can search, fetch, and analyze video captions for content creation, research, and summarization workflows. |
 | [crawl-mcp](https://github.com/walksoda/crawl-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/walksoda/crawl-mcp?style=flat-square) | Crawl4AI MCP Server — extract structured content from web pages, PDFs, Office docs, and YouTube videos. AI agents can crawl, parse, and analyze online content for research and content creation. |
+| [rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Scottcjn/rustchain-mcp?style=flat-square) | MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for video search, content discovery, and blockchain-verified media metadata. |
 
 ## Content Creation Skills
 
