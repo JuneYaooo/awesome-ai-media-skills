@@ -33,6 +33,7 @@
 | [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) | n8n | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/Anil-matcha/n8n-nodes-seedance2?style=flat-square) | n8n community node for ByteDance Seedance 2.0. Automate AI video generation pipelines in no-code workflows. |
 | [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/A-cat-with-carrots/OnlyShot?style=flat-square) | AI 短剧工业流水线 Claude Skill — 一句话 → 剧本/分镜/分镜图/视频/剪辑五步 → 可发红果抖音的完整短剧。集成即梦/Seedance。 |
 | [ai-media-generator](https://github.com/Hao0321/ai-media-generator) | Claude Code | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Hao0321/ai-media-generator?style=flat-square) | Zero-skill cinema — senior-director prompts on autopilot. Claude Code Skill for automated AI video generation from creative prompts with cinematic quality. |
+| [media-skill](https://github.com/lgwanai/media-skill) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/lgwanai/media-skill?style=flat-square) | 全能型 AI 视频创作与分析工作站 Skill — 深度融合多模态大模型与 NLP 技术，覆盖视频生成、分析、剪辑、配音全流程。 |
 
 ## Social Media MCP Servers
 
