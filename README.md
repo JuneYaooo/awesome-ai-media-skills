@@ -60,6 +60,7 @@
 | [rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/Scottcjn/rustchain-mcp?style=flat-square) | MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for video search, content discovery, and blockchain-verified media metadata. |
 | [social-post-extractor-mcp](https://github.com/JNHFlow21/social-post-extractor-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JNHFlow21/social-post-extractor-mcp?style=flat-square) | Open-source social media extraction toolkit, MCP server, Python SDK and CLI for Douyin, Xiaohongshu (RedNote), Bilibili and YouTube. Extract text, subtitles, metadata, videos, covers and images; fe... |
 | [social-media-toolkit](https://github.com/JNHFlow21/social-media-toolkit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JNHFlow21/social-media-toolkit?style=flat-square) | Open-source social media extraction toolkit, MCP server, Python SDK and CLI for Douyin, Xiaohongshu (RedNote), Bilibili and YouTube. Extract text, subtitles, metadata, videos, covers and images; fe... |
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - MCP server for live social and search trend data.
 
 ## Content Creation Skills
 
