@@ -61,6 +61,7 @@
 | [social-post-extractor-mcp](https://github.com/JNHFlow21/social-post-extractor-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JNHFlow21/social-post-extractor-mcp?style=flat-square) | Open-source social media extraction toolkit, MCP server, Python SDK and CLI for Douyin, Xiaohongshu (RedNote), Bilibili and YouTube. Extract text, subtitles, metadata, videos, covers and images; fe... |
 | [social-media-toolkit](https://github.com/JNHFlow21/social-media-toolkit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JNHFlow21/social-media-toolkit?style=flat-square) | Open-source social media extraction toolkit, MCP server, Python SDK and CLI for Douyin, Xiaohongshu (RedNote), Bilibili and YouTube. Extract text, subtitles, metadata, videos, covers and images; fe... |
 | [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data across 25+ platforms (Google, YouTube, TikTok, Reddit, Amazon, news sentiment, app downloads, more). MCP server + REST API. [Free tier](https://trendsmcp.ai) (100 req/mo).
 
 ## Content Creation Skills
 
