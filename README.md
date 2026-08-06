@@ -62,6 +62,7 @@
 | [social-media-toolkit](https://github.com/JNHFlow21/social-media-toolkit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JNHFlow21/social-media-toolkit?style=flat-square) | Open-source social media extraction toolkit, MCP server, Python SDK and CLI for Douyin, Xiaohongshu (RedNote), Bilibili and YouTube. Extract text, subtitles, metadata, videos, covers and images; fe... |
 | [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
 | [mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/guimatheus92/mcp-video-analyzer?style=flat-square) | MCP server that turns any video — YouTube, Instagram, TikTok, Loom, X, Vimeo, direct URLs, local files — into transcripts, key frames, OCR text, and metadata for AI agents. |
+| [bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/XZXZZX-Ai/bilibili-mcp?style=flat-square) | Bilibili MCP工具(获取视频字幕和评论)                  A Bilibili MCP server for retrieving video subtitles and comments. |
 
 ## Content Creation Skills
 
