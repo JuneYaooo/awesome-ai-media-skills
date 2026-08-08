@@ -39,6 +39,7 @@
 | [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Anil-matcha/Wan-3.0-API?style=flat-square) | Wan 3.0 API Python SDK and MCP server for AI video generation: text-to-video, image-to-video, multimodal references, uploads, and async job polling. |
 | [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Anil-matcha/awesome-ai-video-models?style=flat-square) | The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast. |
 | [claude-code-skills](https://github.com/deapi-ai/claude-code-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/deapi-ai/claude-code-skills?style=flat-square) | YouTube/audio transcription, image, video generation, AI voice (TTS) & OCR for Claude Code, Cursor & Windsurf. Up to 20x cheaper via deAPI. |
+| [awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=flat-square) | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Include... |
 
 ## Social Media MCP Servers
 
