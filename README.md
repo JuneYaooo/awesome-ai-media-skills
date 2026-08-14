@@ -67,6 +67,7 @@
 | [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
 | [mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/guimatheus92/mcp-video-analyzer?style=flat-square) | MCP server that turns any video — YouTube, Instagram, TikTok, Loom, X, Vimeo, direct URLs, local files — into transcripts, key frames, OCR text, and metadata for AI agents. |
 | [bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/XZXZZX-Ai/bilibili-mcp?style=flat-square) | Bilibili MCP工具(获取视频字幕和评论)                  A Bilibili MCP server for retrieving video subtitles and comments. |
+| [transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/samson-art/transcriptor-mcp?style=flat-square) | An MCP server (stdio + HTTP/SSE) that fetches video transcripts/subtitles via yt-dlp, with pagination for large responses. Supports YouTube, Twitter/X, Instagram, TikTok, Twitch, Vimeo, Facebook, B... |
 
 ## Content Creation Skills
 
