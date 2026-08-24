@@ -43,6 +43,7 @@
 | [MiniMax-H3-ComfyUI](https://github.com/MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI?style=flat-square) | MiniMax H3 ComfyUI - Run MiniMax turbo lora H3 33B omni-modal AI model locally with ComfyUI workflow. Text-to-video, image-to-video, reference-to-video generation with native stereo audio. ComfyUI ... |
 | [awesome-video-diffusions](https://github.com/longxiang-ai/awesome-video-diffusions) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/longxiang-ai/awesome-video-diffusions?style=flat-square) | A curated and auto-updated collection of video diffusion / video generation papers from arXiv, covering text-to-video, image-to-video, controllable generation, world models, video editing, and 16+ ... |
 | [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/BeatAPI/awesome-minimax-h3-prompts?style=flat-square) | 🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution. |
+| [mediagen](https://github.com/Cripacx/mediagen) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 
 ## Social Media MCP Servers
 
