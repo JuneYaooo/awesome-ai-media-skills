@@ -72,6 +72,7 @@
 | [skills](https://github.com/publora/skills) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/publora/skills?style=flat-square) | Official Publora skills for AI agents: post and schedule to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram from Claude Code, Codex, Cursor or OpenClaw th... |
 | [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
 | [tiktok-mcp](https://github.com/HasData/tiktok-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HasData/tiktok-mcp?style=flat-square) | TikTok MCP server by HasData: public profiles, videos, comments and keyword search as JSON, over streamable HTTP. |
+| [mcp](https://github.com/supadata-ai/mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/supadata-ai/mcp?style=flat-square) | Official Supadata MCP Server - Adds powerful video & web scraping to Cursor, Claude and any other LLM clients. |
 
 ## Content Creation Skills
 
