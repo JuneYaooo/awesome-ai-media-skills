@@ -73,6 +73,7 @@
 | [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
 | [tiktok-mcp](https://github.com/HasData/tiktok-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HasData/tiktok-mcp?style=flat-square) | TikTok MCP server by HasData: public profiles, videos, comments and keyword search as JSON, over streamable HTTP. |
 | [mcp](https://github.com/supadata-ai/mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/supadata-ai/mcp?style=flat-square) | Official Supadata MCP Server - Adds powerful video & web scraping to Cursor, Claude and any other LLM clients. |
+| [omniget](https://github.com/tonhowtf/omniget) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tonhowtf/omniget?style=flat-square) | Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass... |
 
 ## Content Creation Skills
 
