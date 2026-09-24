@@ -44,6 +44,7 @@
 | [awesome-video-diffusions](https://github.com/longxiang-ai/awesome-video-diffusions) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/longxiang-ai/awesome-video-diffusions?style=flat-square) | A curated and auto-updated collection of video diffusion / video generation papers from arXiv, covering text-to-video, image-to-video, controllable generation, world models, video editing, and 16+ ... |
 | [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/BeatAPI/awesome-minimax-h3-prompts?style=flat-square) | 🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution. |
 | [mediagen](https://github.com/Cripacx/mediagen) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
+| [drama-skills](https://github.com/zenstory-ai/drama-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/zenstory-ai/drama-skills?style=flat-square) | 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video ... |
 
 ## Social Media MCP Servers
 
