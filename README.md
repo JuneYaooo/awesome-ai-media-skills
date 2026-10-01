@@ -45,6 +45,7 @@
 | [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/BeatAPI/awesome-minimax-h3-prompts?style=flat-square) | 🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution. |
 | [mediagen](https://github.com/Cripacx/mediagen) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 | [drama-skills](https://github.com/zenstory-ai/drama-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/zenstory-ai/drama-skills?style=flat-square) | 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video ... |
+| [ComfyUI-Wan-VACE-Prep](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/stuttlepress/ComfyUI-Wan-VACE-Prep?style=flat-square) | ComfyUI nodes designed to help make common video editing tasks with video generation models less complicated. Smooth transitions, extensions, outpainting. Primarily designed for Wan VACE, with some... |
 
 ## Social Media MCP Servers
 
@@ -75,6 +76,7 @@
 | [tiktok-mcp](https://github.com/HasData/tiktok-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HasData/tiktok-mcp?style=flat-square) | TikTok MCP server by HasData: public profiles, videos, comments and keyword search as JSON, over streamable HTTP. |
 | [mcp](https://github.com/supadata-ai/mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/supadata-ai/mcp?style=flat-square) | Official Supadata MCP Server - Adds powerful video & web scraping to Cursor, Claude and any other LLM clients. |
 | [omniget](https://github.com/tonhowtf/omniget) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tonhowtf/omniget?style=flat-square) | Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass... |
+| [purffle-shorts](https://github.com/Chamanrajragu/purffle-shorts) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Chamanrajragu/purffle-shorts?style=flat-square) | Free open-source AI YouTube Shorts generator and faceless video maker in Python. Any LLM (GPT, Claude, Gemini, Ollama) writes scripts; text-to-speech, stock footage or AI images, word-synced captio... |
 
 ## Content Creation Skills
 
