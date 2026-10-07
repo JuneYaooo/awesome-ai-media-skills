@@ -48,6 +48,7 @@
 | [ComfyUI-Wan-VACE-Prep](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/stuttlepress/ComfyUI-Wan-VACE-Prep?style=flat-square) | ComfyUI nodes designed to help make common video editing tasks with video generation models less complicated. Smooth transitions, extensions, outpainting. Primarily designed for Wan VACE, with some... |
 | [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/DojoCodingLabs/remotion-superpowers?style=flat-square) | 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 c... |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Tenney95/AI-Canvas-tauri?style=flat-square) | Local-first AI canvas for visual workflows, AI short drama, image/video generation, storyboarding and asset management. ComfyUI, AI agents, MCP & Blender. 本地优先 AI 画布：AI短剧、AI资产管理、图像/视频生成、分镜制作与视频剪辑。 |
+| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JGRFW/comfyui-AICG3D?style=flat-square) | 短剧工作台 | 无限时长视频的 MiniMax H3 工作流 | ComfyUI 本地短剧与长视频生成插件 |
 
 ## Social Media MCP Servers
 
@@ -80,6 +81,7 @@
 | [omniget](https://github.com/tonhowtf/omniget) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tonhowtf/omniget?style=flat-square) | Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass... |
 | [agent](https://github.com/taisly/agent) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/taisly/agent?style=flat-square) | Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook. |
 | [purffle-shorts](https://github.com/Chamanrajragu/purffle-shorts) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Chamanrajragu/purffle-shorts?style=flat-square) | Free open-source AI YouTube Shorts generator and faceless video maker in Python. Any LLM (GPT, Claude, Gemini, Ollama) writes scripts; text-to-speech, stock footage or AI images, word-synced captio... |
+| [postbase](https://github.com/postbasehq/postbase) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/postbasehq/postbase?style=flat-square) | Open-source social media scheduler with an MCP server: post to X, LinkedIn, Bluesky, Mastodon, TikTok and YouTube, or let your AI do it. |
 
 ## Content Creation Skills
 
