@@ -49,6 +49,7 @@
 | [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/DojoCodingLabs/remotion-superpowers?style=flat-square) | 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 c... |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Tenney95/AI-Canvas-tauri?style=flat-square) | Local-first AI canvas for visual workflows, AI short drama, image/video generation, storyboarding and asset management. ComfyUI, AI agents, MCP & Blender. 本地优先 AI 画布：AI短剧、AI资产管理、图像/视频生成、分镜制作与视频剪辑。 |
 | [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/JGRFW/comfyui-AICG3D?style=flat-square) | 短剧工作台 | 无限时长视频的 MiniMax H3 工作流 | ComfyUI 本地短剧与长视频生成插件 |
+| [awesome-video-generation](https://github.com/backblaze-labs/awesome-video-generation) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/backblaze-labs/awesome-video-generation?style=flat-square) | A curated list of AI video generation APIs, SDKs, and tools including text-to-video, video editing, multimodal generation, diffusion models, and generative AI platforms. Covers commercial services,... |
 
 ## Social Media MCP Servers
 
