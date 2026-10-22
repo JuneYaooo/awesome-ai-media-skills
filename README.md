@@ -85,6 +85,7 @@
 | [agent](https://github.com/taisly/agent) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/taisly/agent?style=flat-square) | Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook. |
 | [purffle-shorts](https://github.com/Chamanrajragu/purffle-shorts) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Chamanrajragu/purffle-shorts?style=flat-square) | Free open-source AI YouTube Shorts generator and faceless video maker in Python. Any LLM (GPT, Claude, Gemini, Ollama) writes scripts; text-to-speech, stock footage or AI images, word-synced captio... |
 | [postbase](https://github.com/postbasehq/postbase) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/postbasehq/postbase?style=flat-square) | Open-source social media scheduler with an MCP server: post to X, LinkedIn, Bluesky, Mastodon, TikTok and YouTube, or let your AI do it. |
+| [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/everyinfra/everyinfra-agent-plugins?style=flat-square) | EveryInfra MCP server & agent plugin — scraper API for TikTok, Instagram, Amazon, YouTube, X/Twitter, Reddit, LinkedIn, Google SERP, Xiaohongshu (RedNote) & Douyin: 414 data APIs across 90 platform... |
 
 ## Content Creation Skills
 
