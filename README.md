@@ -52,6 +52,7 @@
 | [awesome-video-generation](https://github.com/backblaze-labs/awesome-video-generation) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/backblaze-labs/awesome-video-generation?style=flat-square) | A curated list of AI video generation APIs, SDKs, and tools including text-to-video, video editing, multimodal generation, diffusion models, and generative AI platforms. Covers commercial services,... |
 | [ComfyUI-Majoor-OmniCam](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MajoorWaldi/ComfyUI-Majoor-OmniCam?style=flat-square) | Majoor OmniCam is a camera layout and animation tool for ComfyUI. It lets you prepare camera motion without running image or video generation while editing.  You can position cameras, create keyfra... |
 | [lindyson-ai](https://github.com/orylite/lindyson-ai) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
+| [beatra-skills](https://github.com/beatra-ai/beatra-skills) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beatra-ai/beatra-skills?style=flat-square) | Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking head video, AI music, and video generation skills that render on Beatra. 图片生成 ·... |
 
 ## Social Media MCP Servers
 
