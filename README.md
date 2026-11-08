@@ -53,6 +53,7 @@
 | [ComfyUI-Majoor-OmniCam](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MajoorWaldi/ComfyUI-Majoor-OmniCam?style=flat-square) | Majoor OmniCam is a camera layout and animation tool for ComfyUI. It lets you prepare camera motion without running image or video generation while editing.  You can position cameras, create keyfra... |
 | [lindyson-ai](https://github.com/orylite/lindyson-ai) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
 | [beatra-skills](https://github.com/beatra-ai/beatra-skills) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beatra-ai/beatra-skills?style=flat-square) | Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking head video, AI music, and video generation skills that render on Beatra. 图片生成 ·... |
+| [daihuo-fanpai](https://github.com/wangcanyu/daihuo-fanpai) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wangcanyu/daihuo-fanpai?style=flat-square) | 反推爆款带货短视频 → 即梦/Seedance 重生成 → 剪映草稿交付的 agent 流水线。单日 16 条实战验证。作者:汪自立,7 年抖音直播操盘手(生鲜/珠宝/烘焙,单场 GMV 306 万),踩坑与打法全部固化成可复用 skill。 |
 
 ## Social Media MCP Servers
 
@@ -90,6 +91,7 @@
 | [StarryVT](https://github.com/Ker0el/StarryVT) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Ker0el/StarryVT?style=flat-square) | 星译 StarryVT：现代化的 AI 视频翻译工具，视频转中文字幕 + AI 中文配音 + 烧录成片，支持 MCP 让 AI Agent 直接调用（Windows）。翻译和配音用你自己的 API Key，源码以 GPL-3.0 开源。AI video translation with subtitles and Chinese dubbing; your video never leave... |
 | [social-media-toolkit](https://github.com/risingjerry/social-media-toolkit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/risingjerry/social-media-toolkit?style=flat-square) | Public Python SDK, CLI, and MCP server for extracting metadata, text, timed transcripts, media, and supported comments from Douyin, RedNote, Bilibili, and YouTube. |
 | [ai-video-mcp](https://github.com/aituberapp/ai-video-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/aituberapp/ai-video-mcp?style=flat-square) | AI Video MCP server by AITuber, hosted at https://mcp.aituber.app. Create and publish AI videos (Shorts, TikTok, Reels) from Claude Desktop, Claude Code, ChatGPT, Codex, Cursor, or OpenClaw. Sign i... |
+| [scrapeio-agent](https://github.com/xhoantran/scrapeio-agent) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xhoantran/scrapeio-agent?style=flat-square) | Agent skills for social media research: influencer discovery, creator vetting, competitor audits, transcripts, comments, trends, ad libraries. MCP server for TikTok, Instagram, YouTube, X and 29 more. |
 
 ## Content Creation Skills
 
