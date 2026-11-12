@@ -55,6 +55,7 @@
 | [beatra-skills](https://github.com/beatra-ai/beatra-skills) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beatra-ai/beatra-skills?style=flat-square) | Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking head video, AI music, and video generation skills that render on Beatra. 图片生成 ·... |
 | [daihuo-fanpai](https://github.com/wangcanyu/daihuo-fanpai) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wangcanyu/daihuo-fanpai?style=flat-square) | 反推爆款带货短视频 → 即梦/Seedance 重生成 → 剪映草稿交付的 agent 流水线。单日 16 条实战验证。作者:汪自立,7 年抖音直播操盘手(生鲜/珠宝/烘焙,单场 GMV 306 万),踩坑与打法全部固化成可复用 skill。 |
 | [viral-video-remake-skill](https://github.com/beatra-ai/viral-video-remake-skill) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beatra-ai/viral-video-remake-skill?style=flat-square) | Viral video remake agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: break a short video that worked into its hook, beats, and call to action, then rebuild it around your own ... |
+| [ComfyUI-AI-Drama-Studio](https://github.com/baomingli04/ComfyUI-AI-Drama-Studio) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/baomingli04/ComfyUI-AI-Drama-Studio?style=flat-square) | ComfyUI AI漫剧/短剧/动画一站式本地生产平台：AI剧本创作→角色资产→美术出图→AI分镜→单镜生成(图生视频/文生视频/首尾帧/参考生视频)→FFmpeg一键成片。ComfyUI工作流封装成技能，自选可扩展。本机运行完全免费，无云服务无订阅 | Local-first free AI drama & comic studio: screenplay → storyboard → i... |
 
 ## Social Media MCP Servers
 
