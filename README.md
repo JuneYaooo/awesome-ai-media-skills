@@ -95,6 +95,7 @@
 | [social-media-toolkit](https://github.com/risingjerry/social-media-toolkit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/risingjerry/social-media-toolkit?style=flat-square) | Public Python SDK, CLI, and MCP server for extracting metadata, text, timed transcripts, media, and supported comments from Douyin, RedNote, Bilibili, and YouTube. |
 | [ai-video-mcp](https://github.com/aituberapp/ai-video-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/aituberapp/ai-video-mcp?style=flat-square) | AI Video MCP server by AITuber, hosted at https://mcp.aituber.app. Create and publish AI videos (Shorts, TikTok, Reels) from Claude Desktop, Claude Code, ChatGPT, Codex, Cursor, or OpenClaw. Sign i... |
 | [scrapeio-agent](https://github.com/xhoantran/scrapeio-agent) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xhoantran/scrapeio-agent?style=flat-square) | Agent skills for social media research: influencer discovery, creator vetting, competitor audits, transcripts, comments, trends, ad libraries. MCP server for TikTok, Instagram, YouTube, X and 29 more. |
+| [social0-oss](https://github.com/Abhishek-B-R/social0-oss) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Abhishek-B-R/social0-oss?style=flat-square) | Open-source multi-platform social media scheduler — compose once and publish to 9 networks in parallel, with live analytics, a unified inbox, and a REST API, CLI and MCP server for AI agents. Power... |
 
 ## Content Creation Skills
 
