@@ -57,6 +57,7 @@
 | [viral-video-remake-skill](https://github.com/beatra-ai/viral-video-remake-skill) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beatra-ai/viral-video-remake-skill?style=flat-square) | Viral video remake agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: break a short video that worked into its hook, beats, and call to action, then rebuild it around your own ... |
 | [ComfyUI-AI-Drama-Studio](https://github.com/baomingli04/ComfyUI-AI-Drama-Studio) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/baomingli04/ComfyUI-AI-Drama-Studio?style=flat-square) | ComfyUI AI漫剧/短剧/动画一站式本地生产平台：AI剧本创作→角色资产→美术出图→AI分镜→单镜生成(图生视频/文生视频/首尾帧/参考生视频)→FFmpeg一键成片。ComfyUI工作流封装成技能，自选可扩展。本机运行完全免费，无云服务无订阅 | Local-first free AI drama & comic studio: screenplay → storyboard → i... |
 | [muapi-comfyui](https://github.com/SamurAIGPT/muapi-comfyui) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/SamurAIGPT/muapi-comfyui?style=flat-square) | ComfyUI custom nodes for Seedance, Wan, and MiniMax H3 Spicy/uncensored-style video generation via MuAPI, plus 600+ image, video, audio, and enhancement models. |
+| [awesome-ai-drama](https://github.com/DU8866-nice/awesome-ai-drama) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/DU8866-nice/awesome-ai-drama?style=flat-square) | AI 短剧 / 漫剧开源工具大全：剧本、分镜、角色一致性、视频生成、配音口型、剪辑与合规发布 | Curated open-source tools for AI short dramas and motion comics |
 
 ## Social Media MCP Servers
 
