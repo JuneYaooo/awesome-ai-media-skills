@@ -132,6 +132,7 @@
 | [hotclip](https://github.com/xixihhhh/hotclip) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square) | 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频——AI 找高光金句、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts. No ... |
 | [mcp-video](https://github.com/KyaniteLabs/mcp-video) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/KyaniteLabs/mcp-video?style=flat-square) | Guardrailed video editing MCP server for AI agents — FFmpeg, Hyperframes, repurposing workflows |
 | [eva-video-style](https://github.com/RoverEva/eva-video-style) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/RoverEva/eva-video-style?style=flat-square) | Open-source AI video editing skill for talking-head videos. Features ready-to-use templates, cinematic effects, motion graphics, and animated captions. Choose a style and let AI edit!  开源 AI 口播视频剪辑... |
+| [agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/brajendrak00068/agentic-ai-video-production?style=flat-square) | Levea OpenClaw AI Video Editor & MCP Server: autonomous natural-language video editing for viral clips, TikTok, Reels, YouTube Shorts, auto captions, subtitles, 9:16 vertical reframe, silence remov... |
 
 ---
 
