@@ -99,6 +99,7 @@
 | [scrapeio-agent](https://github.com/xhoantran/scrapeio-agent) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/xhoantran/scrapeio-agent?style=flat-square) | Agent skills for social media research: influencer discovery, creator vetting, competitor audits, transcripts, comments, trends, ad libraries. MCP server for TikTok, Instagram, YouTube, X and 29 more. |
 | [mcp](https://github.com/socialcrawl/mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/socialcrawl/mcp?style=flat-square) | MCP server for the SocialCrawl API: 802 endpoints on 95 platforms (TikTok, Instagram, YouTube, X, LinkedIn, Reddit, Amazon, Google and more), with the credit price of every call. Run it with npx so... |
 | [social0-oss](https://github.com/Abhishek-B-R/social0-oss) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Abhishek-B-R/social0-oss?style=flat-square) | Open-source multi-platform social media scheduler — compose once and publish to 9 networks in parallel, with live analytics, a unified inbox, and a REST API, CLI and MCP server for AI agents. Power... |
+| [content-factory](https://github.com/jutsuhq/content-factory) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jutsuhq/content-factory?style=flat-square) | Open-source AI faceless video generator for TikTok, YouTube Shorts and Reels on Apple silicon Macs. A free, local alternative to Higgsfield Content Factory: a script becomes a 30–120 s vertical vid... |
 
 ## Content Creation Skills
 
