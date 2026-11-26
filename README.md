@@ -137,6 +137,7 @@
 | [eva-video-style](https://github.com/RoverEva/eva-video-style) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/RoverEva/eva-video-style?style=flat-square) | Open-source AI video editing skill for talking-head videos. Features ready-to-use templates, cinematic effects, motion graphics, and animated captions. Choose a style and let AI edit!  开源 AI 口播视频剪辑... |
 | [awesome-ai-video-for-creators](https://github.com/sasateguh/awesome-ai-video-for-creators) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/sasateguh/awesome-ai-video-for-creators?style=flat-square) | Ranked, weekly-updated list of open-source AI tools that edit and produce short videos: captions, clipping, silence removal, dubbing and programmatic video. |
 | [agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/brajendrak00068/agentic-ai-video-production?style=flat-square) | Levea OpenClaw AI Video Editor & MCP Server: autonomous natural-language video editing for viral clips, TikTok, Reels, YouTube Shorts, auto captions, subtitles, 9:16 vertical reframe, silence remov... |
+| [openshorts](https://github.com/mutonby/openshorts) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/mutonby/openshorts?style=flat-square) | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU s... |
 
 ---
 
